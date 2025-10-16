@@ -73,7 +73,7 @@ Five participants with normal or corrected-to-normal vision will complete the st
 
 ### Primary Analysis
 
-For each participant individually:
+Across participants (treating participant as a random factor):
 
 1. Calculate median discrimination times for each stimulus difference
 2. Plot median discrimination time (y-axis) against stimulus difference in sq.mm (x-axis)
